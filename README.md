@@ -1,6 +1,6 @@
 <div align=center> 
 
-### [joshmuthu.com](joshmuthu.com) | [joshuamuthu.substack.com](joshuamuthu.substack.com)
+### [joshmuthu.com](https://www.joshmuthu.com)) | [joshuamuthu.substack.com](https://joshuamuthu.substack.com/)
 
 <img src="https://github.com/j-muthu/j-muthu/blob/main/Mission%20Control%202.jpg" alt="Mission Control" width="450"/>
 <br><br>
